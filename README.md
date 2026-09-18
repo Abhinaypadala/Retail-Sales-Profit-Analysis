@@ -40,3 +40,7 @@ This project analyzes retail sales data using Excel, SQL, Python, and Power BI t
 
 ## Conclusion
 The project demonstrates an end-to-end data analysis workflow, starting from raw data cleaning and continuing through SQL analysis, Python-based analysis, and Power BI dashboard development.
+
+## Power BI Dashboard
+<img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/4ef68909-5420-40ed-b6a5-06240f1d6002" />
+
