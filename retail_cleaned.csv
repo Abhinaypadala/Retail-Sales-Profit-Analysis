@@ -1,0 +1,470 @@
+Order ID,Order Date,Ship Date,Customer ID,Customer Name,City,State,Region,Product Name,Category,Quantity,Discount,Sales,Profit,Payment Mode,Sales Channel,Customer Segment
+ORD-100210,15-11-2025,21-11-2025,C-1041,Rahul Gupta,Hyderabad,Telangana,South,24-Inch Monitor,Electronics,1,0.12,10120,696,UPI,Marketplace,Corporate
+ORD-100290,31-05-2025,01-06-2025,C-1087,Pooja Sharma,Chennai,Tamil Nadu,South,27-Inch Monitor,Electronics,5,0.08,85100,9293,Debit Card,Retail Store,Small Business
+ORD-100004,12-04-2025,14-04-2025,C-1140,Meena Joshi,Kochi,Kerala,South,File Folder,Stationery,5,0,700,76,Net Banking,Online,Consumer
+ORD-100082,02-02-2025,05-02-2025,C-1117,Divya Rao,Chennai,Tamil Nadu,South,24-Inch Monitor,Electronics,3,0,34500,3856,Credit Card,Retail Store,Corporate
+ORD-100319,16-06-2025,18-06-2025,C-1015,Arjun Sharma,Visakhapatnam,Andhra Pradesh,South,Printer,Electronics,3,0.12,25872,5324,Debit Card,Retail Store,Consumer
+ORD-100108,30-03-2025,05-04-2025,C-1061,Ravi Iyer,Pune,Maharashtra,West,Laptop Stand,Accessories,8,0.15,14960,359,UPI,Marketplace,Corporate
+ORD-100178,11-11-2025,13-11-2025,C-1073,Rohit Iyer,Bengaluru,Karnataka,South,Webcam,Electronics,1,0.05,4275,653,Net Banking,Retail Store,Corporate
+ORD-100330,25-12-2025,31-12-2025,C-1135,Vikram Gupta,Visakhapatnam,Andhra Pradesh,South,Usb-C Hub,Accessories,5,0.12,7920,847,Cash,Marketplace,Small Business
+ORD-100318,09-07-2025,13-07-2025,C-1113,Arjun Sharma,Vijayawada,Andhra Pradesh,South,Headphones,Electronics,2,0.1,5760,308,Credit Card,Retail Store,Corporate
+ORD-100153,29-12-2025,31-12-2025,C-1065,Sneha Naidu,Visakhapatnam,Andhra Pradesh,South,Pen Pack,Stationery,8,0.02,1725,148,UPI,Marketplace,Corporate
+ORD-100145,19-06-2025,20-06-2025,C-1050,Kavya Singh,Jaipur,Rajasthan,North,24-Inch Monitor,Electronics,4,0.25,34500,352,Cash,Marketplace,Small Business
+ORD-100495,10-01-2025,14-01-2025,C-1142,Vikram Das,Chennai,Tamil Nadu,South,File Folder,Stationery,5,0.08,515,99,Cash,Retail Store,Corporate
+ORD-100558,05-12-2025,11-12-2025,C-1061,Vikram Iyer,Mumbai,Maharashtra,West,Pen Pack,Stationery,3,0.1,594,101,Credit Card,Online,Corporate
+ORD-100519,18-03-2025,23-03-2025,C-1057,Meena Iyer,Kolkata,West Bengal,East,File Folder,Stationery,8,0.2,896,23,Debit Card,Online,Consumer
+ORD-100591,28-11-2025,02-12-2025,C-1095,Priya Joshi,Vijayawada,Andhra Pradesh,South,Keyboard,Accessories,1,0.12,1100,75,Credit Card,Online,Small Business
+ORD-100106,14-09-2025,18-09-2025,C-1104,Neha Kumar,Visakhapatnam,Andhra Pradesh,South,Notebook,Stationery,5,0.12,792,137,Cash,Retail Store,Consumer
+ORD-100011,10-05-2025,14-05-2025,C-1012,Swathi Sharma,Delhi,Delhi,North,24-Inch Monitor,Electronics,2,0.1,20700,2903,Credit Card,Online,Corporate
+ORD-100281,13-10-2025,17-10-2025,C-1102,Suresh Patel,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,1,0.25,638,49,Cash,Retail Store,Consumer
+ORD-100412,02-11-2025,07-11-2025,C-1110,Sneha Kumar,Visakhapatnam,Andhra Pradesh,South,Pen Pack,Stationery,6,0.02,1294,219,Debit Card,Retail Store,Corporate
+ORD-100477,13-03-2025,16-03-2025,C-1147,Meena Patel,Mumbai,Maharashtra,West,Power Bank,Electronics,4,0.15,8160,1074,Debit Card,Online,Corporate
+ORD-100205,20-03-2025,23-03-2025,C-1004,Neha Das,Warangal,Telangana,South,Pen Pack,Stationery,2,0.1,396,72,Net Banking,Marketplace,Consumer
+ORD-100440,22-06-2025,28-06-2025,C-1107,Suresh Patel,Vijayawada,Andhra Pradesh,South,Office Desk,Furniture,2,0.1,22500,882,Net Banking,Online,Consumer
+ORD-100007,27-03-2025,01-04-2025,C-1009,Sneha Kumar,Visakhapatnam,Andhra Pradesh,South,Keyboard,Accessories,2,0.15,2125,362,UPI,Marketplace,Small Business
+ORD-100189,16-05-2025,21-05-2025,C-1096,Asha Rao,Vijayawada,Andhra Pradesh,South,Webcam,Electronics,3,0,13500,1766,Credit Card,Marketplace,Consumer
+ORD-100119,29-08-2025,04-09-2025,C-1093,Anjali Verma,Kochi,Kerala,South,Printer,Electronics,2,0.08,18032,2717,Net Banking,Online,Small Business
+ORD-100579,03-12-2025,08-12-2025,C-1035,Vikram Reddy,Visakhapatnam,Andhra Pradesh,South,Bookshelf,Furniture,2,0.05,12350,572,UPI,Online,Small Business
+ORD-100520,29-12-2025,31-12-2025,C-1074,Pooja Das,Hyderabad,Telangana,South,Power Bank,Electronics,8,0.1,17280,2179,Debit Card,Retail Store,Corporate
+ORD-100173,10-06-2025,11-06-2025,C-1067,Priya Naidu,Kolkata,West Bengal,East,Headphones,Electronics,1,0.02,3136,632,Cash,Online,Small Business
+ORD-100156,06-03-2025,09-03-2025,C-1091,Manoj Joshi,Chennai,Tamil Nadu,South,24-Inch Monitor,Electronics,6,0.08,63480,5951,UPI,Retail Store,Consumer
+ORD-100065,26-04-2025,01-05-2025,C-1128,Anjali Das,Chennai,Tamil Nadu,South,Usb-C Hub,Accessories,1,0.02,1764,194,Net Banking,Marketplace,Corporate
+ORD-100087,05-05-2025,06-05-2025,C-1054,Divya Rao,Kolkata,West Bengal,East,Usb-C Hub,Accessories,1,0.05,1710,91,Credit Card,Marketplace,Corporate
+ORD-100572,11-01-2025,16-01-2025,C-1007,Rahul Das,Delhi,Delhi,North,Notebook,Stationery,2,0.05,342,56,Debit Card,Retail Store,Small Business
+ORD-100028,05-11-2025,09-11-2025,C-1005,Amit Reddy,Kolkata,West Bengal,East,Webcam,Electronics,8,0.05,34200,1738,UPI,Retail Store,Consumer
+ORD-100465,13-11-2025,14-11-2025,C-1059,Kavya Joshi,Delhi,Delhi,North,27-Inch Monitor,Electronics,5,0.15,125800,12562,Debit Card,Retail Store,Consumer
+ORD-100587,12-02-2025,18-02-2025,C-1023,Pooja Kumar,Delhi,Delhi,North,Power Bank,Electronics,5,0.15,10200,1637,Debit Card,Retail Store,Small Business
+ORD-100349,07-04-2025,07-07-2025,C-1072,Ravi Das,Vijayawada,Andhra Pradesh,South,Pen Pack,Stationery,1,0.05,209,29,Cash,Online,Consumer
+ORD-100168,17-01-2025,21-01-2025,C-1118,Anjali Das,Hyderbad,Telangana,South,Usb-C Hub,Accessories,2,0.12,3168,494,Debit Card,Online,Consumer
+ORD-100294,01-04-2025,02-04-2025,C-1107,Rohit Joshi,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,1,0.05,2090,136,Debit Card,Retail Store,Corporate
+ORD-100441,13-04-2025,19-04-2025,C-1030,Rahul Das,Hyderabad,Telangana,South,Office Desk,Furniture,2,0.25,18750,981,UPI,Retail Store,Consumer
+ORD-100114,07-11-2025,10-11-2025,C-1048,Swathi Iyer,Chennai,Tamil Nadu,South,Printer,Electronics,6,0.12,51744,9502,Cash,Retail Store,Small Business
+ORD-100371,28-10-2025,03-11-2025,C-1098,Ravi Kumar,Warangal,Telangana,South,Laptop Stand,Accessories,5,0.1,9900,740,Cash,Online,Small Business
+ORD-100051,15-06-2025,20-06-2025,C-1012,Neha Naidu,Vijayawada,Andhra Pradesh,South,File Folder,Stationery,4,0.08,515,117,Net Banking,Online,Consumer
+ORD-100282,10-09-2025,15-09-2025,C-1008,Arjun Das,Pune,Maharashtra,West,Pen Pack,Stationery,4,0.1,792,87,Credit Card,Retail Store,Consumer
+ORD-100358,04-09-2025,05-09-2025,C-1001,Divya Sharma,Jaipur,Rajasthan,North,Office Chair,Furniture,1,0.1,8100,865,UPI,Marketplace,Small Business
+ORD-100464,07-07-2025,11-07-2025,C-1053,Kavya Joshi,Warangal,Telangana,South,Keyboard,Accessories,6,0.2,6000,1108,Cash,Marketplace,Small Business
+ORD-100217,08-01-2025,12-01-2025,C-1128,Sneha Das,Kochi,Kerala,South,Bookshelf,Furniture,1,0.25,4875,963,Net Banking,Retail Store,Consumer
+ORD-100472,16-03-2025,18-03-2025,C-1014,Neha Sharma,Warangal,Telangana,South,Webcam,Electronics,4,0.25,13500,928,UPI,Retail Store,Consumer
+ORD-100016,06-10-2025,12-10-2025,C-1010,Meena Joshi,Jaipur,Rajasthan,North,Keyboard,Accessories,5,0.02,6125,1303,Net Banking,Marketplace,Consumer
+ORD-100531,14-09-2025,16-09-2025,C-1028,Amit Patel,Delhi,Delhi,North,Bookshelf,Furniture,5,0.12,28600,2089,Net Banking,Retail Store,Consumer
+ORD-100037,05-06-2025,11-06-2025,C-1037,Manoj Das,Warangal,Telangana,South,Usb-C Hub,Accessories,1,0.08,1656,144,Debit Card,Marketplace,Corporate
+ORD-100233-DUP,18-09-2025,20-09-2025,C-1028,Kiran Sharma,Kochi,Kerala,South,Headphones,Electronics,1,0.15,2720,272,Debit Card,Retail Store,Consumer
+ORD-100555,28-04-2025,04-05-2025,C-1015,Kavya Rao,Jaipur,Rajasthan,North,Printer,Electronics,1,0.05,9310,472,Debit Card,Retail Store,Small Business
+ORD-100307,15-12-2025,19-12-2025,C-1059,Naveen Reddy,Mumbai,Telangana,West,Office Desk,Furniture,1,0.08,11500,1041,UPI,Marketplace,Small Business
+ORD-100289,19-07-2025,24-07-2025,C-1139,Anjali Verma,Warangal,Telangana,South,Calculator,Stationery,2,0.08,1196,136,Cash,Online,Corporate
+ORD-100172,07-09-2025,12-09-2025,C-1140,Neha Singh,Warangal,Telangana,South,24-Inch Monitor,Electronics,4,0.12,40480,2948,Cash,Marketplace,Small Business
+ORD-100361,10-01-2025,14-01-2025,C-1085,Ravi Das,Kochi,Kerala,South,24-Inch Monitor,Electronics,6,0.08,63480,6515,Debit Card,Online,Corporate
+ORD-100050,08-10-2025,10-10-2025,C-1051,Swathi Reddy,Vijayawada,Andhra Pradesh,South,Power Bank,Electronics,1,0,2400,515,Cash,Marketplace,Consumer
+ORD-100565,16-11-2025,19-11-2025,C-1055,Naveen Gupta,Bengaluru,Karnataka,South,24-Inch Monitor,Electronics,3,0.08,31740,6702,Cash,Marketplace,Consumer
+ORD-100008,02-02-2025,07-02-2025,C-1017,Amit Das,Jaipur,Rajasthan,North,Bookshelf,Furniture,8,0.02,50960,3194,Net Banking,Marketplace,Small Business
+ORD-100411,30-05-2025,01-06-2025,C-1036,Divya Sharma,Kolkata,West Bengal,East,Keyboard,Accessories,3,0.2,3000,415,UPI,Retail Store,Small Business
+ORD-100407,08-07-2025,13-07-2025,C-1030,Swathi Joshi,Bengaluru,Karnataka,South,Laptop Stand,Accessories,1,0.2,1760,168,UPI,Marketplace,Corporate
+ORD-100246,29-12-2025,01-01-2026,C-1057,Arjun Joshi,Hyderabad,Telangana,South,27-Inch Monitor,Electronics,3,0.02,54390,7566,UPI,Online,Small Business
+ORD-100344,07-05-2025,12-05-2025,C-1004,Amit Kumar,Mumbai,Maharashtra,West,24-Inch Monitor,Electronics,4,0.02,45080,7906,Credit Card,Retail Store,Corporate
+ORD-100313,29-05-2025,04-06-2025,C-1037,Manoj Reddy,Kochi,Kerala,South,Power Bank,Electronics,1,0.02,2352,214,Net Banking,Retail Store,Small Business
+ORD-100332,04-12-2025,08-12-2025,C-1150,Vikram Naidu,Delhi,Delhi,North,27-Inch Monitor,Electronics,1,0.02,18130,2786,Credit Card,Retail Store,Corporate
+ORD-100138,14-08-2025,17-08-2025,C-1141,Manoj Kumar,Jaipur,Rajasthan,North,Notebook,Stationery,6,0.25,-500,104,UPI,Marketplace,Consumer
+ORD-100079,28-08-2025,02-09-2025,C-1145,Kiran Singh,Vijayawada,Andhra Pradesh,South,Keyboard,Accessories,3,0.05,3562,172,Cash,Online,Corporate
+ORD-100207,14-07-2025,20-07-2025,C-1069,Arjun Kumar,Visakhapatnam,Andhra Pradesh,South,Office Chair,Furniture,2,0.2,14400,932,Debit Card,Online,Corporate
+ORD-100551,19-04-2025,20-04-2025,C-1001,Suresh Patel,Kolkata,West Bengal,East,File Folder,Stationery,2,0.1,252,21,Cash,Online,Corporate
+ORD-100581,29-06-2025,02-07-2025,C-1138,Vikram Sharma,Pune,Maharashtra,West,Office Desk,Furniture,1,0.05,-100,2435,Credit Card,Retail Store,Corporate
+ORD-100338,19-08-2025,25-08-2025,C-1105,Pooja Naidu,Visakhapatnam,Andhra Pradesh,South,24-Inch Monitor,Electronics,2,0,23000,5395,Debit Card,Retail Store,Corporate
+ORD-100101,06-07-2025,07-07-2025,C-1122,Neha Kumar,Pune,Maharashtra,West,Headphones,Electronics,2,0.08,5888,430,Net Banking,Retail Store,Consumer
+ORD-100173-DUP,10-06-2025,11-06-2025,C-1067,Priya Naidu,Kolkata,West Bengal,East,Headphones,Electronics,1,0.02,3136,632,Cash,Online,Small Business
+ORD-100250,08-04-2025,12-04-2025,C-1140,Amit Gupta,Hyderabad,Telangana,South,Power Bank,Electronics,6,0.2,11520,2083,Credit Card,Marketplace,Small Business
+ORD-100179,21-05-2025,27-05-2025,C-1130,Sneha Sharma,Mumbai,Maharashtra,West,Printer,Electronics,3,0.2,23520,889,Debit Card,Marketplace,Small Business
+ORD-100527,07-11-2025,08-11-2025,C-1130,Naveen Patel,Delhi,Delhi,North,Bookshelf,Furniture,1,0.05,6175,1007,Cash,Retail Store,Small Business
+ORD-100388,17-01-2025,18-01-2025,C-1048,Arjun Iyer,Kolkata,West Bengal,East,Bookshelf,Furniture,1,0.1,5850,703,UPI,Retail Store,Consumer
+ORD-100264,14-07-2025,17-07-2025,C-1099,Rohit Gupta,Visakhapatnam,Andhra Pradesh,South,Laptop Stand,Accessories,1,0.05,2090,353,Debit Card,Marketplace,Consumer
+ORD-100559,23-10-2025,24-10-2025,C-1063,Arjun Naidu,Pune,Maharashtra,West,Bookshelf,Furniture,2,0.15,11050,1152,Credit Card,Marketplace,Corporate
+ORD-100343,02-03-2025,07-03-2025,C-1068,Ravi Das,Pune,Maharashtra,West,File Folder,Stationery,1,0,140,15,Debit Card,Online,Corporate
+ORD-100596,29-09-2025,02-10-2025,C-1112,Manoj Reddy,Kolkata,West Bengal,East,Printer,Electronics,5,0,49000,2922,Credit Card,Marketplace,Small Business
+ORD-100248,20-02-2025,24-02-2025,C-1134,Manoj Verma,Mumbai,Maharashtra,West,Usb-C Hub,Accessories,3,0,5400,336,Net Banking,Marketplace,Small Business
+ORD-100175,15-02-2025,19-02-2025,C-1135,Divya Verma,Mumbai,Maharashtra,West,24-Inch Monitor,Electronics,2,0.2,18400,1078,Net Banking,Online,Small Business
+ORD-100577,04-04-2025,07-04-2025,C-1129,Manoj Kumar,Vijayawada,Andhra Pradesh,South,Printer,Electronics,1,0.08,9016,453,Net Banking,Retail Store,Consumer
+ORD-100373,10-09-2025,11-09-2025,C-1128,Pooja Reddy,Bengaluru,Karnataka,South,Notebook,Stationery,6,0.15,918,60,UPI,Retail Store,Consumer
+ORD-100443,24-06-2025,26-06-2025,C-1026,Naveen Reddy,Visakhapatnam,Andhra Pradesh,South,Usb-C Hub,Accessories,2,0.1,3240,619,Debit Card,Retail Store,Small Business
+ORD-100200,02-11-2025,03-11-2025,C-1048,Arjun Das,Warangal,Telangana,South,Webcam,Electronics,8,0.08,33120,3861,Credit Card,Retail Store,Consumer
+ORD-100384,23-08-2025,28-08-2025,C-1126,Kavya Kumar,Mumbai,Maharashtra,West,Laptop Stand,Accessories,3,0.1,5940,633,Cash,Retail Store,Consumer
+ORD-100439,29-03-2025,02-04-2025,C-1136,Rahul Iyer,Jaipur,Rajasthan,North,Calculator,Stationery,1,0,650,152,Net Banking,Online,Small Business
+ORD-100400,04-09-2025,08-09-2025,C-1015,Priya Gupta,Hyderabad,Telangana,South,Calculator,Stationery,2,0.1,1170,92,Cash,Retail Store,Corporate
+ORD-100468,27-09-2025,02-10-2025,C-1077,Manoj Iyer,Delhi,Delhi,North,Headphones,Electronics,1,0.08,2944,178,Debit Card,Online,Corporate
+ORD-100376,19-12-2025,24-12-2025,C-1011,Suresh Sharma,Hyderabad,Telangana,South,Usb-C Hub,Accessories,1,0.75,1620,229,Cash,Marketplace,Small Business
+ORD-100191,18-12-2025,20-12-2025,C-1131,Vikram Patel,Kochi,Kerala,South,Notebook,Stationery,3,0.1,486,96,Credit Card,Retail Store,Corporate
+ORD-100366,03-02-2025,04-02-2025,C-1118,Asha Das,Jaipur,Rajasthan,North,Bookshelf,Furniture,1,0.08,5980,810,UPI,Online,Consumer
+ORD-100038,28-07-2025,29-07-2025,C-1039,Priya Iyer,Pune,Maharashtra,West,External Ssd,Electronics,8,0.08,52992,4480,Net Banking,Retail Store,Small Business
+ORD-100523,16-09-2025,18-09-2025,C-1051,Asha Gupta,Visakhapatnam,Andhra Pradesh,South,Laptop Stand,Accessories,6,0.08,12144,1848,Cash,Retail Store,Small Business
+ORD-100322,22-04-2025,28-04-2025,C-1060,Rahul Rao,Warangal,Telangana,South,Power Bank,Electronics,4,1.2,9408,1975,Cash,Marketplace,Consumer
+ORD-100276,28-05-2025,29-05-2025,C-1011,Amit Gupta,Visakhapatnam,Andhra Pradesh,South,Wireless Mouse,Accessories,1,0.05,808,189,Cash,Online,Small Business
+ORD-100564,10-05-2025,14-05-2025,C-1147,Asha Naidu,Kochi,Kerala,South,Notebook,Stationery,6,0.05,1026,183,Credit Card,Online,Consumer
+ORD-100104,14-12-2025,17-12-2025,C-1037,Asha Kumar,Vijayawada,Andhra Pradesh,South,Keyboard,Accessories,1,0.05,1188,84,Cash,Retail Store,Small Business
+ORD-100550,15-12-2025,18-12-2025,C-1125,Divya Rao,Bengaluru,Karnataka,South,27-Inch Monitor,Electronics,4,0.05,70300,3809,Credit Card,Retail Store,Small Business
+ORD-100054,26-06-2025,02-07-2025,C-1048,Manoj Patel,Chennai,Tamil Nadu,South,Notebook,Stationery,5,0.08,828,140,Cash,Online,Consumer
+ORD-100491-DUP,08-12-2025,09-12-2025,C-1018,Rahul Singh,Jaipur,Rajasthan,North,Calculator,Stationery,6,1.2,3510,367,Cash,Marketplace,Corporate
+ORD-100593,12-09-2025,13-09-2025,C-1107,Arjun Das,Chennai,Tamil Nadu,South,24-Inch Monitor,Electronics,3,0.12,30360,1149,Credit Card,Retail Store,Small Business
+ORD-100072,20-12-2025,23-12-2025,C-1046,Divya Sharma,Vijayawada,Andhra Pradesh,South,Office Chair,Furniture,6,0.1,48600,7288,Debit Card,Retail Store,Corporate
+ORD-100365,10-12-2025,11-12-2025,C-1013,Rahul Rao,Kolkata,West Bengal,East,File Folder,Stationery,3,0.15,357,14,Cash,Online,Consumer
+ORD-100184,10-05-2025,12-05-2025,C-1058,Vikram Singh,Hyderabad,Telangana,South,Notebook,Stationery,5,0.12,792,164,Credit Card,Marketplace,Corporate
+ORD-100003,04-01-2025,05-01-2025,C-1138,Kiran Reddy,Delhi,Delhi,North,Power Bank,Electronics,2,0.05,4560,940,Cash,Retail Store,Small Business
+ORD-100336,10-11-2025,16-11-2025,C-1083,Arjun Iyer,Delhi,Delhi,North,Headphones,Electronics,1,0.05,3040,515,Debit Card,Marketplace,Consumer
+ORD-100005,08-03-2025,14-03-2025,C-1143,Meena Sharma,Kochi,Kerala,South,Keyboard,Accessories,1,0.08,1150,113,Cash,Marketplace,Corporate
+ORD-100192,13-11-2025,16-11-2025,C-1147,Amit Singh,Mumbai,Maharashtra,West,27-Inch Monitor,Electronics,6,0,111000,25350,Cash,Online,Small Business
+ORD-100467,10-06-2025,11-06-2025,C-1132,Priya Rao,Warangal,Telangana,South,Usb-C Hub,Accessories,2,0.15,3060,326,Cash,Retail Store,Consumer
+ORD-100026,12-01-2025,17-01-2025,C-1144,Priya Iyer,Delhi,Delhi,North,Office Chair,Furniture,8,0.08,66240,9985,UPI,Marketplace,Small Business
+ORD-100167,28-05-2025,01-06-2025,C-1103,Rahul Rao,Delhi,Delhi,North,Keyboard,Accessories,1,0.1,1125,238,Debit Card,Marketplace,Corporate
+ORD-100047,16-07-2025,21-07-2025,C-1051,Asha Das,Visakhapatnam,Andhra Pradesh,South,File Folder,Stationery,1,0.02,137,9,Cash,Marketplace,Small Business
+ORD-100288,17-10-2025,18-10-2025,C-1047,Ravi Kumar,Delhi,Delhi,North,24-Inch Monitor,Electronics,2,-0.1,21160,3316,UPI,Marketplace,Small Business
+ORD-100211,18-02-2025,22-02-2025,C-1098,Neha Kumar,Mumbai,Maharashtra,West,Calculator,Stationery,1,0.1,585,63,Cash,Online,Corporate
+ORD-100116,18-07-2025,20-07-2025,C-1096,Divya Gupta,Jaipur,Rajasthan,North,Office Chair,Furniture,6,0.25,40500,4969,Credit Card,Retail Store,Small Business
+ORD-100341,13-05-2025,19-05-2025,C-1012,Sneha Das,Kochi,Kerala,South,Office Chair,Furniture,4,0.2,28800,1080,UPI,Online,Small Business
+ORD-100501,04-05-2025,05-05-2025,C-1069,Ravi Singh,Kochi,Kerala,South,24-Inch Monitor,Electronics,5,0.25,43125,2470,UPI,Retail Store,Corporate
+ORD-100548,18-07-2025,20-07-2025,C-1097,Divya Joshi,Visakhapatnam,Maharashtra,South,Power Bank,Electronics,1,0.05,2280,227,Credit Card,Marketplace,Consumer
+ORD-100133,22-06-2025,28-06-2025,C-1102,Arjun Reddy,Bengaluru,Karnataka,South,Office Desk,Furniture,6,0.12,66000,2652,Cash,Retail Store,Consumer
+ORD-100195,12-10-2025,13-10-2025,C-1036,Naveen Singh,Bengaluru,Karnataka,South,Office Chair,Furniture,8,0,72000,7131,Debit Card,Online,Corporate
+ORD-100215,27-05-2025,29-05-2025,C-1038,Arjun Rao,Kolkata,West Bengal,East,Bookshelf,Furniture,5,0.15,27625,1617,UPI,Marketplace,Small Business
+ORD-100385,16-10-2025,17-10-2025,C-1146,Pooja Joshi,Pune,Maharashtra,West,Power Bank,Electronics,2,0.05,4560,557,Credit Card,Online,Consumer
+ORD-100103,04-08-2025,08-08-2025,C-1101,Divya Das,Kochi,Kerala,South,24-Inch Monitor,Electronics,6,0.1,62100,9248,UPI,Marketplace,Small Business
+ORD-100546,17-07-2025,19-07-2025,C-1041,Amit Patel,Bengaluru,Karnataka,South,24-Inch Monitor,Electronics,2,0.2,18400,2073,Net Banking,Retail Store,Consumer
+ORD-100163,01-01-2025,07-01-2025,C-1146,Rohit Joshi,Kochi,Kerala,South,Webcam,Electronics,4,0.15,15300,2860,Debit Card,Marketplace,Small Business
+ORD-100303,15-12-2025,18-12-2025,C-1137,Ravi Joshi,Vijayawada,Andhra Pradesh,South,24-Inch Monitor,Electronics,6,0.12,60720,11011,Debit Card,Retail Store,Small Business
+ORD-100100,21-10-2025,24-10-2025,C-1119,Meena Verma,Warangal,Telangana,South,Pen Pack,Electronics,4,0.25,660,73,UPI,Online,Consumer
+ORD-100372,03-09-2025,09-09-2025,C-1024,Meena Patel,Mumbai,Maharashtra,West,Bookshelf,Furniture,8,0.2,41600,8248,Cash,Marketplace,Small Business
+ORD-100262,04-09-2025,09-09-2025,C-1118,Divya Rao,Kolkata,West Bengal,East,External Ssd,Electronics,4,0,28800,3358,Credit Card,Retail Store,Small Business
+ORD-100142,08-01-2025,10-01-2025,C-1133,Amit Patel,Chennai,Maharashtra,South,Usb-C Hub,Accessories,8,0.02,14112,1531,Cash,Marketplace,Corporate
+ORD-100234,23-05-2025,27-05-2025,C-1049,Vikram Naidu,Delhi,Delhi,North,Power Bank,Electronics,5,0.12,2112,395,UPI,Online,Corporate
+ORD-100573,01-11-2025,06-11-2025,C-1074,Vikram Das,Pune,Maharashtra,West,Laptop Stand,Accessories,5,0,11000,972,UPI,Marketplace,Small Business
+ORD-100045,11-08-2025,15-08-2025,C-1005,Asha Joshi,Bengaluru,Karnataka,South,Headphones,Electronics,8,0.12,22528,4672,UPI,Retail Store,Small Business
+ORD-100578,25-10-2025,30-10-2025,C-1002,Arjun Reddy,Visakhapatnam,Andhra Pradesh,South,Office Desk,Furniture,8,0.12,88000,7770,Cash,Online,Corporate
+ORD-100137,17-09-2025,23-09-2025,C-1110,Meena Rao,Kolkata,West Bengal,East,Keyboard,Accessories,3,0.2,3000,332,Cash,Marketplace,Consumer
+ORD-100104-DUP,14-12-2025,17-12-2025,C-1037,Asha Kumar,Vijayawada,Andhra Pradesh,South,Keyboard,Accessories,1,0.05,1188,84,Cash,Retail Store,Small Business
+ORD-100444,06-10-2025,11-10-2025,C-1044,Priya Das,Vijayawada,Andhra Pradesh,South,Printer,Electronics,6,0.1,52920,7225,Cash,Marketplace,Corporate
+ORD-100600,28-06-2025,02-07-2025,C-1114,Rahul Naidu,Chennai,Tamil Nadu,South,24-Inch Monitor,Electronics,1,0.08,10580,951,UPI,Marketplace,Corporate
+ORD-100567,25-07-2025,31-07-2025,C-1090,Rohit Joshi,Delhi,Delhi,North,File Folder,Stationery,3,0.05,399,21,Debit Card,Online,Consumer
+ORD-100027,28-07-2025,03-08-2025,C-1021,Kavya Patel,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,2,0.2,1360,74,Cash,Marketplace,Small Business
+ORD-100367,20-11-2025,25-11-2025,C-1035,Sneha Gupta,Vijayawada,Andhra Pradesh,South,Usb-C Hub,Accessories,1,0.1,1620,310,Credit Card,Online,Corporate
+ORD-100268-DUP,07-02-2025,12-02-2025,C-1043,Kavya Joshi,Pune,Maharashtra,West,27-Inch Monitor,Electronics,1,0.02,18130,4052,Cash,Online,Small Business
+ORD-100223,23-08-2025,25-08-2025,C-1059,Naveen Rao,Kochi,Kerala,South,Pen Pack,Stationery,8,0.12,1549,280,Net Banking,Marketplace,Corporate
+ORD-100044,15-01-2025,19-01-2025,C-1038,Priya Reddy,Vijayawada,Andhra Pradesh,South,Office Chair,Furniture,3,0.02,26460,5495,UPI,Online,Corporate
+ORD-100209,27-11-2025,29-11-2025,C-1113,Priya Gupta,Jaipur,Rajasthan,North,Pen Pack,Stationery,2,0.02,431,70,Credit Card,Retail Store,Corporate
+ORD-100196,15-07-2025,20-07-2025,C-1119,Neha Reddy,Delhi,Delhi,North,Power Bank,Electronics,2,0.2,3840,559,Credit Card,Marketplace,Small Business
+ORD-100488,18-07-2025,19-07-2025,C-1023,Kavya Rao,Bengaluru,Karnataka,South,Webcam,Electronics,8,0.2,28800,4406,Debit Card,Online,Corporate
+ORD-100589,11-11-2025,12-11-2025,C-1145,Amit Iyer,Bengaluru,Karnataka,South,Headphones,Electronics,2,0.08,5888,947,Net Banking,Marketplace,Consumer
+ORD-100597,01-04-2025,05-04-2025,C-1147,Pooja Das,Warangal,Telangana,South,Office Desk,Furniture,3,0.08,34500,4476,Cash,Online,Small Business
+ORD-100471,22-07-2025,26-07-2025,C-1003,Rohit Iyer,Kochi,Kerala,South,Office Chair,Furniture,6,0.08,49680,4919,Credit Card,Marketplace,Consumer
+ORD-100279,19-09-2025,23-09-2025,C-1042,Naveen Iyer,Kochi,Kerala,South,27-Inch Monitor,Electronics,3,0.05,52725,5584,Cash,Retail Store,Consumer
+ORD-100126,26-12-2025,31-12-2025,C-1068,Priya Rao,Jaipur,Rajasthan,North,Notebook,Electronics,1,0.02,176,22,Cash,Marketplace,Consumer
+ORD-100557,22-02-2025,25-02-2025,C-1006,Neha Verma,Kochi,Kerala,South,Pen Pack,Stationery,4,0.12,774,22,UPI,Marketplace,Small Business
+ORD-100549,28-11-2025,29-11-2025,C-1021,Vikram Kumar,Vijayawada,Andhra Pradesh,South,Office Chair,Furniture,4,0.05,34200,6859,Debit Card,Online,Small Business
+ORD-100521,22-07-2025,28-07-2025,C-1037,Rahul Iyer,Delhi,Delhi,North,Wireless Mouse,Accessories,2,0.02,1666,340,Credit Card,Marketplace,Small Business
+ORD-100236,26-10-2025,01-11-2025,C-1147,Meena Singh,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,2,0.25,1275,203,Debit Card,Marketplace,Corporate
+ORD-100174,11-09-2025,12-09-2025,C-1014,Rohit Rao,Vijayawada,Andhra Pradesh,South,Headphones,Electronics,1,0.08,2944,249,Cash,Marketplace,Corporate
+ORD-100515,10-10-2025,14-10-2025,C-1080,Naveen Iyer,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,2,0.02,1666,318,Credit Card,Online,Consumer
+ORD-100052,11-12-2025,15-12-2025,C-1038,Arjun Reddy,Jaipur,Rajasthan,North,24-Inch Monitor,Electronics,-1,0.02,33810,5052,Debit Card,Online,Corporate
+ORD-100568,19-03-2025,24-03-2025,C-1137,Meena Patel,Jaipur,Rajasthan,North,File Folder,Stationery,1,0.15,119,12,UPI,Online,Small Business
+ORD-100263,12-01-2025,18-01-2025,C-1069,Amit Iyer,Pune,Maharashtra,West,Printer,Electronics,2,0.15,16660,1159,Credit Card,Online,Small Business
+ORD-100203,28-09-2025,04-10-2025,C-1030,Amit Patel,Delhi,Delhi,North,File Folder,Stationery,2,0.02,274,48,Net Banking,Retail Store,Small Business
+ORD-100268,07-02-2025,12-02-2025,C-1043,Kavya Joshi,Pune,Maharashtra,West,27-Inch Monitor,Electronics,1,0.02,18130,4052,Cash,Online,Small Business
+ORD-100058,18-11-2025,20-11-2025,C-1061,Naveen Joshi,Bengaluru,Karnataka,South,Usb-C Hub,Accessories,2,0.05,3420,631,UPI,Retail Store,Corporate
+ORD-100164,07-03-2025,08-03-2025,C-1038,Vikram Joshi,Jaipur,Rajasthan,North,Office Desk,Furniture,6,0.25,56250,7162,Credit Card,Marketplace,Small Business
+ORD-100309,11-07-2025,17-07-2025,C-1014,Vikram Gupta,Kolkata,West Bengal,East,Bookshelf,Furniture,4,0.15,22100,3490,Cash,Marketplace,Small Business
+ORD-100417,20-11-2025,22-11-2025,C-1150,Kiran Rao,Kochi,Kerala,South,File Folder,Stationery,6,0.1,756,88,Cash,Retail Store,Corporate
+ORD-100259,06-01-2025,07-01-2025,C-1140,Rohit Joshi,Chennai,Tamil Nadu,South,Headphones,Electronics,1,0,3200,272,Net Banking,Marketplace,Corporate
+ORD-100308,03-04-2025,09-04-2025,C-1087,Priya Joshi,Chennai,Tamil Nadu,South,Bookshelf,Furniture,6,-0.1,33150,797,UPI,Marketplace,Corporate
+ORD-100132,09-10-2025,11-10-2025,C-1027,Kavya Naidu,Kolkata,West Bengal,East,27-Inch Monitor,Electronics,1,0,18500,2845,Cash,Retail Store,Corporate
+ORD-100094,08-04-2025,11-04-2025,C-1058,Asha Rao,Delhi,Delhi,North,Headphones,Electronics,3,0.02,9408,2104,Cash,Retail Store,Corporate
+ORD-100574,17-10-2025,23-10-2025,C-1101,Amit Singh,Vijayawada,Andhra Pradesh,South,Headphones,Electronics,1,0.08,2944,566,Credit Card,Online,Small Business
+ORD-100339,10-08-2025,11-08-2025,C-1115,Anjali Das,Bengaluru,Karnataka,South,Webcam,Electronics,1,0.1,4050,764,Cash,Retail Store,Consumer
+ORD-100130,23-03-2025,25-03-2025,C-1062,Neha Verma,Mumbai,Maharashtra,West,Notebook,Stationery,3,0.2,432,47,Debit Card,Marketplace,Consumer
+ORD-100463,11-09-2025,12-09-2025,C-1015,Priya Kumar,Hyderabad,Telangana,South,Notebook,Stationery,2,0.12,317,62,Net Banking,Retail Store,Corporate
+ORD-100421,19-03-2025,24-03-2025,C-1097,Sneha Sharma,Kochi,Kerala,South,Wireless Mouse,Accessories,3,0.5,2295,298,Net Banking,Marketplace,Corporate
+ORD-100085,15-01-2025,16-01-2025,C-1081,Kiran Gupta,Hyderabad,Telangana,South,27-Inch Monitor,Electronics,5,0.12,81400,18906,UPI,Online,Corporate
+ORD-100301,30-09-2025,02-10-2025,C-1116,Kavya Sharma,Bengaluru,Karnataka,South,Notebook,Stationery,8,0.2,1152,187,Credit Card,Retail Store,Corporate
+ORD-100474,28-03-2025,01-04-2025,C-1071,Neha Patel,Vijayawada,Andhra Pradesh,South,Wireless Mouse,Accessories,1,0.15,722,126,Credit Card,Retail Store,Corporate
+ORD-100588,05-06-2025,10-06-2025,C-1129,Neha Singh,Kolkata,West Bengal,East,Headphones,Electronics,1,0.15,2720,439,Credit Card,Marketplace,Corporate
+ORD-100092,08-05-2025,14-05-2025,C-1065,Kavya Kumar,Warangal,Telangana,South,Laptop Stand,Accessories,2,0.1,3960,519,UPI,Online,Consumer
+ORD-100221,23-08-2025,29-08-2025,C-1063,Rohit Rao,Vijayawada,Andhra Pradesh,South,Laptop Stand,Accessories,2,0.05,4180,316,Cash,Marketplace,Small Business
+ORD-100029,18-08-2025,22-08-2025,C-1001,Meena Reddy,Warangal,Telangana,South,Pen Pack,Stationery,1,0.25,165,20,UPI,Retail Store,Corporate
+ORD-100073,06-07-2025,12-07-2025,C-1014,Vikram Das,Kolkata,West Bengal,East,Usb-C Hub,Accessories,5,0.25,6750,929,Credit Card,Retail Store,Small Business
+ORD-100274,14-11-2025,16-11-2025,C-1110,Neha Sharma,Vijayawada,Andhra Pradesh,South,Webcam,Electronics,6,0.08,24840,4384,Cash,Marketplace,Small Business
+ORD-100537,15-11-2025,21-11-2025,C-1030,Arjun Gupta,Bengaluru,Karnataka,South,Keyboard,Accessories,6,0.1,6750,1501,Debit Card,Marketplace,Corporate
+ORD-100566,30-08-2025,05-09-2025,C-1144,Kiran Rao,Jaipur,Rajasthan,North,Bookshelf,Furniture,1,0.02,6370,418,Credit Card,Online,Consumer
+ORD-100470,30-08-2025,01-09-2025,C-1002,Suresh Gupta,Hyderabad,Telangana,South,Office Desk,Furniture,4,0.2,40000,7857,Cash,Online,Corporate
+ORD-100456,26-09-2025,01-10-2025,C-1069,Anjali Kumar,Delhi,Delhi,North,Laptop Stand,Accessories,1,0.12,1936,350,UPI,Online,Corporate
+ORD-100201,13-01-2025,17-01-2025,C-1055,Amit Verma,Kochi,Andhrapradesh,South,Bookshelf,Furniture,5,0.2,26000,4002,Net Banking,Marketplace,Small Business
+ORD-100370,19-12-2025,22-12-2025,C-1052,Kavya Gupta,Chennai,Tamil Nadu,South,Headphones,Electronics,2,0.08,5888,1203,Net Banking,Marketplace,Small Business
+ORD-100267,16-03-2025,20-03-2025,C-1069,Rohit Reddy,Hyderabad,Telangana,South,27-Inch Monitor,Electronics,1,0.2,14800,2653,Debit Card,Retail Store,Corporate
+ORD-100295,06-07-2025,09-07-2025,C-1059,Pooja Joshi,Vijayawada,Andhra Pradesh,South,File Folder,Stationery,4,0.05,532,101,Net Banking,Online,Corporate
+ORD-100437,13-08-2025,17-08-2025,C-1101,Rohit Reddy,Vijayawada,Andhra Pradesh,South,Office Desk,Furniture,2,0.05,23750,3186,Cash,Marketplace,Small Business
+ORD-100562,22-08-2025,23-08-2025,C-1104,Amit Verma,Kolkata,West Bengal,East,External Ssd,Electronics,1,0,7200,1188,UPI,Online,Consumer
+ORD-100368,26-04-2025,27-04-2025,C-1030,Priya Kumar,Kochi,Kerala,South,Pen Pack,Stationery,6,0.08,1214,142,Cash,Marketplace,Small Business
+ORD-100452,21-09-2025,26-09-2025,C-1037,Naveen Das,Kochi,Kerala,South,Usb-C Hub,Accessories,6,0.05,10260,2312,Credit Card,Online,Small Business
+ORD-100416,11-02-2025,17-02-2025,C-1057,Rahul Iyer,Visakhapatnam,Andhra Pradesh,South,Notebook,Stationery,8,0.1,1296,97,Net Banking,Marketplace,Corporate
+ORD-100310,27-10-2025,28-10-2025,C-1127,Sneha Iyer,Delhi,Delhi,North,Notebook,Stationery,3,0.12,475,105,Cash,Marketplace,Consumer
+ORD-100081,18-07-2025,19-07-2025,C-1148,Ravi Das,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,2,0.12,1496,87,Debit Card,Retail Store,Small Business
+ORD-100478,17-10-2025,23-10-2025,C-1122,Sneha Das,Pune,Maharashtra,West,Power Bank,Electronics,2,0.02,4704,966,Debit Card,Marketplace,Corporate
+ORD-100064,10-08-2025,11-08-2025,C-1005,Sneha Joshi,Kolkata,West Bengal,East,Headphones,Electronics,2,0.05,6080,583,UPI,Online,Corporate
+ORD-100062,26-07-2025,29-07-2025,C-1091,Pooja Rao,Kochi,Kerala,South,24-Inch Monitor,Electronics,2,0.2,18400,2673,Cash,Marketplace,Small Business
+ORD-100525,30-06-2025,02-07-2025,C-1048,Meena Naidu,Vijayawada,Andhra Pradesh,South,Office Chair,Furniture,1,0,9000,528,Credit Card,Marketplace,Consumer
+ORD-100009,28-04-2025,01-05-2025,C-1138,Asha Joshi,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,5,0,4250,1012,Cash,Online,Corporate
+ORD-100086,22-04-2025,24-04-2025,C-1052,Asha Sharma,Chennai,Tamil Nadu,South,External Ssd,Electronics,2,0.15,12240,1108,UPI,Marketplace,Small Business
+ORD-100473,23-05-2025,27-05-2025,C-1130,Amit Singh,Kochi,Kerala,South,Office Desk,Furniture,1,0.2,10000,1412,Cash,Retail Store,Consumer
+ORD-100543,07-12-2025,08-12-2025,C-1140,Meena Verma,Mumbai,Maharashtra,West,External Ssd,Electronics,4,0.02,28224,6546,Net Banking,Marketplace,Small Business
+ORD-100157,30-03-2025,02-04-2025,C-1002,Vikram Das,Warangal,Telangana,South,Printer,Electronics,1,0.02,9604,1200,UPI,Retail Store,Corporate
+ORD-100575,30-11-2025,05-12-2025,C-1107,Rahul Naidu,Pune,Maharashtra,West,Office Desk,Furniture,2,0,25000,5066,Debit Card,Online,Corporate
+ORD-100122,20-01-2025,21-01-2025,C-1099,Swathi Joshi,Delhi,Delhi,North,Keyboard,Accessories,6,0.08,6900,1421,Debit Card,Online,Corporate
+ORD-100556,06-04-2025,08-04-2025,C-1083,Priya Gupta,Visakhapatnam,Andhra Pradesh,South,Office Chair,Furniture,6,0,54000,9563,Net Banking,Retail Store,Consumer
+ORD-100212,25-05-2025,29-05-2025,C-1061,Kavya Rao,Delhi,Delhi,North,Bookshelf,Furniture,5,0,32500,6984,Debit Card,Marketplace,Consumer
+ORD-100404,17-01-2025,18-01-2025,C-1091,Neha Rao,Bengaluru,Karnataka,South,Office Chair,Furniture,6,0.1,48600,8264,Net Banking,Retail Store,Small Business
+ORD-100165,21-12-2025,26-12-2025,C-1094,Rahul Kumar,Chennai,Tamil Nadu,South,Office Chair,Furniture,1,0.05,8550,682,Debit Card,Retail Store,Corporate
+ORD-100406,01-08-2025,04-08-2025,C-1134,Divya Joshi,Kolkata,West Bengal,East,Office Desk,Furniture,6,0.25,0,1182,Net Banking,Marketplace,Corporate
+ORD-100352,28-07-2025,02-08-2025,C-1054,Kavya Kumar,Hyderabad,Telangana,South,27-Inch Monitor,Electronics,1,0.15,15725,811,Credit Card,Marketplace,Corporate
+ORD-100235,02-07-2025,07-07-2025,C-1144,Vikram Naidu,Vijayawada,Andhra Pradesh,South,Calculator,Stationery,6,0,3900,786,Net Banking,Online,Small Business
+ORD-100180,10-08-2025,16-08-2025,C-1009,Manoj Iyer,Kolkata,West Bengal,East,Webcam,Electronics,1,0.1,4050,156,UPI,Retail Store,Small Business
+ORD-100070,22-06-2025,26-06-2025,C-1070,Rahul Patel,Vijayawada,Andhra Pradesh,South,Wireless Mouse,Accessories,8,0.25,5100,519,Debit Card,Retail Store,Small Business
+ORD-100272,09-02-2025,15-02-2025,C-1129,Sneha Sharma,Bengaluru,Karnataka,South,Headphones,Electronics,4,0.25,9600,1953,UPI,Retail Store,Consumer
+ORD-100585,17-04-2025,18-04-2025,C-1023,Rahul Reddy,Visakhapatnam,Andhra Pradesh,South,27-Inch Monitor,Electronics,2,0.2,29600,698,UPI,Marketplace,Consumer
+ORD-100024,19-03-2025,20-03-2025,C-1088,Sneha Kumar,Jaipur,Rajasthan,North,Office Chair,Furniture,8,0.12,63360,3824,Debit Card,Online,Consumer
+ORD-100552,16-10-2025,19-10-2025,C-1126,Arjun Joshi,Pune,Maharashtra,West,Webcam,Electronics,8,0.25,27000,4972,Cash,Marketplace,Consumer
+ORD-100293,03-07-2025,08-07-2025,C-1118,Rahul Verma,Delhi,Delhi,North,Webcam,Electronics,8,0.05,34200,3458,Cash,Online,Corporate
+ORD-100582,30-05-2025,05-06-2025,C-1141,Arjun Rao,Kolkata,West Bengal,East,Notebook,Stationery,1,0.15,153,25,Credit Card,Online,Small Business
+ORD-100059,28-07-2025,29-07-2025,C-1004,Rohit Patel,Warangal,Telangana,South,External Ssd,Electronics,6,0.2,34560,6015,Credit Card,Online,Small Business
+ORD-100539,07-06-2025,08-06-2025,C-1102,Neha Naidu,Kochi,Kerala,South,Laptop Stand,Accessories,4,0.12,7744,924,Net Banking,Marketplace,Corporate
+ORD-100080,05-03-2025,06-03-2025,C-1043,Anjali Reddy,Bengaluru,Karnataka,South,Printer,Electronics,8,0.08,72128,8275,Debit Card,Retail Store,Consumer
+ORD-100431,22-12-2025,24-12-2025,C-1147,Vikram Naidu,Pune,Maharashtra,West,Notebook,Stationery,3,0.12,475,23,Net Banking,Retail Store,Corporate
+ORD-100460,27-05-2025,01-06-2025,C-1079,Sneha Rao,Visakhapatnam,Andhra Pradesh,South,Calculator,Stationery,2,0.15,1105,92,Cash,Retail Store,Consumer
+ORD-100093,28-01-2025,01-02-2025,C-1063,Naveen Rao,Jaipur,Rajasthan,North,Office Desk,Furniture,4,0.08,46000,9472,UPI,Marketplace,Corporate
+ORD-100345,05-01-2025,10-01-2025,C-1005,Asha Patel,Vijayawada,Andhra Pradesh,South,Notebook,Stationery,4,0.2,576,115,Cash,Marketplace,Corporate
+ORD-100427,29-07-2025,30-07-2025,C-1119,Vikram Das,Jaipur,Rajasthan,North,Calculator,Stationery,2,0.02,1274,123,Net Banking,Retail Store,Consumer
+ORD-100419,12-06-2025,16-06-2025,C-1130,Sneha Iyer,Vijayawada,Andhra Pradesh,South,Printer,Electronics,8,0.25,58800,5328,UPI,Retail Store,Corporate
+ORD-100252,06-01-2025,07-01-2025,C-1028,Meena Joshi,Vizag,Andhra Pradesh,South,Office Chair,Furniture,8,0.1,64800,9837,Credit Card,Marketplace,Corporate
+ORD-100569,28-02-2025,01-03-2025,C-1013,Vikram Joshi,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,2,0.1,3960,748,Net Banking,Marketplace,Consumer
+ORD-100277,05-10-2025,06-10-2025,C-1118,Meena Kumar,Bengaluru,Karnataka,South,Bookshelf,Electronics,5,0.12,28600,1540,Credit Card,Marketplace,Corporate
+ORD-100481,08-10-2025,10-10-2025,C-1010,Suresh Sharma,Delhi,Delhi,North,File Folder,Stationery,5,0.25,525,70,Credit Card,Retail Store,Corporate
+ORD-100304,05-06-2025,08-06-2025,C-1092,Pooja Joshi,Kochi,Kerala,South,27-Inch Monitor,Electronics,2,0.2,29600,3696,Credit Card,Marketplace,Small Business
+ORD-100508,26-03-2025,31-03-2025,C-1076,Asha Das,Mumbai,Maharashtra,West,Pen Pack,Stationery,1,0,220,47,Net Banking,Marketplace,Consumer
+ORD-100462,28-03-2025,01-04-2025,C-1118,Swathi Naidu,Hyderabad,Telangana,South,Keyboard,Accessories,1,0.5,1125,256,UPI,Retail Store,Small Business
+ORD-100261,28-01-2025,30-01-2025,C-1035,Kiran Rao,Jaipur,Rajasthan,North,24-Inch Monitor,Electronics,2,0.12,20240,726,UPI,Marketplace,Consumer
+ORD-100518,06-03-2025,07-03-2025,C-1052,Asha Das,Vijayawada,Andhra Pradesh,South,Wireless Mouse,Accessories,2,0.15,1445,276,UPI,Marketplace,Small Business
+ORD-100055,30-08-2025,02-09-2025,C-1111,Neha Kumar,Visakhapatnam,Andhra Pradesh,South,Headphones,Electronics,3,0.2,7680,1065,Net Banking,Marketplace,Consumer
+ORD-100542,14-03-2025,19-03-2025,C-1083,Manoj Das,Visakhapatnam,Andhra Pradesh,South,Pen Pack,Stationery,1,0.02,216,48,Net Banking,Marketplace,Corporate
+ORD-100151,01-06-2025,05-06-2025,C-1013,Arjun Rao,Kochi,Kerala,South,Headphones,Electronics,8,0.15,21760,1126,UPI,Online,Consumer
+ORD-100535,27-11-2025,28-11-2025,C-1045,Asha Reddy,Pune,Maharashtra,West,Laptop Stand,Accessories,2,0.15,3740,835,UPI,Online,Small Business
+ORD-100374,06-08-2025,07-08-2025,C-1116,Kiran Gupta,Chennai,Tamil Nadu,South,27-Inch Monitor,Electronics,2,0.2,29600,1724,Cash,Online,Corporate
+ORD-100107,02-06-2025,07-06-2025,C-1020,Divya Das,Vijayawada,Andhra Pradesh,South,Usb-C Hub,Accessories,1,0.2,1440,143,Cash,Retail Store,Consumer
+ORD-100232,23-03-2025,24-03-2025,C-1142,Manoj Patel,Warangal,Telangana,South,Headphones,Electronics,2,0.05,6080,907,Net Banking,Online,Consumer
+ORD-100238,18-09-2025,20-09-2025,C-1113,Pooja Sharma,Mumbai,Maharashtra,West,Laptop Stand,Accessories,1,0.15,1870,393,UPI,Retail Store,Corporate
+ORD-100426,08-01-2025,09-01-2025,C-1054,Swathi Iyer,Pune,Maharashtra,West,Webcam,Electronics,5,0,22500,3189,Debit Card,Online,Small Business
+ORD-100397,08-03-2025,13-03-2025,C-1066,Manoj Rao,Kolkata,West Bengal,East,Office Desk,Furniture,6,0.2,60000,10966,Cash,Online,Consumer
+ORD-100507,10-08-2025,12-08-2025,C-1121,Divya Naidu,Chennai,Tamil Nadu,South,Notebook,Stationery,6,0.2,864,110,Net Banking,Retail Store,Small Business
+ORD-100398,26-02-2025,03-03-2025,C-1094,Naveen Iyer,Vijayawada,Andhra Pradesh,South,Bookshelf,Furniture,2,0.1,11700,1276,Debit Card,Online,Corporate
+ORD-100083,22-03-2025,27-03-2025,C-1077,Asha Joshi,Delhi,Delhi,North,24-Inch Monitor,Electronics,6,0,69000,15316,Debit Card,Online,Consumer
+ORD-100516,01-11-2025,07-11-2025,C-1071,Asha Naidu,Kochi,Kerala,South,Wireless Mouse,Accessories,4,0.08,3128,207,Credit Card,Online,Corporate
+ORD-100526,21-02-2025,24-02-2025,C-1067,Kiran Sharma,Mumbai,Maharashtra,West,File Folder,Stationery,1,0.05,133,10,Debit Card,Online,Consumer
+ORD-100102,23-12-2025,24-12-2025,C-1047,Divya Rao,Hyderabad,Telangana,South,Wireless Mouse,Accessories,1,0.02,833,126,Cash,Marketplace,Small Business
+ORD-100283,22-12-2025,26-12-2025,C-1072,Rohit Patel,Vijayawada,Andhra Pradesh,South,Bookshelf,Furniture,3,0,19500,1890,Net Banking,Retail Store,Consumer
+ORD-100363,05-08-2025,08-08-2025,C-1147,Meena Gupta,Jaipur,Rajasthan,North,Office Chair,Furniture,1,0.15,7650,1592,Cash,Marketplace,Corporate
+ORD-100113,22-05-2025,27-05-2025,C-1002,Sneha Gupta,Jaipur,Rajasthan,North,Printer,Electronics,4,0.1,35280,2288,Net Banking,Marketplace,Small Business
+ORD-100454,22-03-2025,24-03-2025,C-1046,Divya Das,Mumbai,Maharashtra,West,24-Inch Monitor,Electronics,2,0.08,42320,2229,Net Banking,Marketplace,Small Business
+ORD-100442,07-11-2025,11-11-2025,C-1047,Swathi Patel,Visakhapatnam,Andhra Pradesh,South,Office Chair,Furniture,2,0.15,15300,2778,Credit Card,Retail Store,Consumer
+ORD-100247,28-07-2025,03-08-2025,C-1083,Pooja Naidu,Hyderabad,Telangana,South,Notebook,Stationery,6,0.08,994,43,Cash,Marketplace,Small Business
+ORD-100146,25-07-2025,30-07-2025,C-1130,Kiran Joshi,Pune,Maharashtra,West,Office Chair,Furniture,1,0.05,-500,1401,UPI,Online,Corporate
+ORD-100284,01-01-2025,07-01-2025,C-1027,Manoj Naidu,Delhi,Delhi,North,Calculator,Stationery,4,0.25,1950,188,UPI,Marketplace,Corporate
+ORD-100383,21-03-2025,22-03-2025,C-1029,Kiran Joshi,Kochi,Kerala,South,Office Desk,Furniture,2,0.08,23000,4577,UPI,Online,Consumer
+ORD-100580,31-01-2025,04-02-2025,C-1048,Naveen Joshi,Jaipur,Rajasthan,North,Notebook,Stationery,2,0.12,317,23,Net Banking,Retail Store,Consumer
+ORD-100111,07-03-2025,11-03-2025,C-1005,Suresh Gupta,Vijayawada,Andhra Pradesh,South,Headphones,Electronics,5,0.2,12800,721,UPI,Online,Small Business
+ORD-100595,30-09-2025,05-10-2025,C-1063,Manoj Reddy,Jaipur,Rajasthan,North,Pen Pack,Stationery,2,0.02,431,46,Net Banking,Online,Small Business
+ORD-100091,28-02-2025,06-03-2025,C-1005,Vikram Iyer,Pune,Maharashtra,West,Laptop Stand,Accessories,3,0.1,5940,496,Debit Card,Marketplace,Corporate
+ORD-100206,21-10-2025,27-10-2025,C-1049,Swathi Gupta,Jaipur,Rajasthan,North,Office Chair,Furniture,3,0.25,20250,2018,Credit Card,Retail Store,Corporate
+ORD-100171,28-06-2025,01-07-2025,C-1008,Ravi Kumar,Jaipur,Rajasthan,North,Printer,Electronics,6,0.12,51744,1651,UPI,Retail Store,Small Business
+ORD-100233,18-09-2025,20-09-2025,C-1028,Kiran Sharma,Kochi,Kerala,South,Headphones,Electronics,1,0.15,2720,272,Debit Card,Retail Store,Consumer
+ORD-100242,09-02-2025,11-02-2025,C-1130,Neha Rao,Hyderabad,Telangana,South,Office Desk,Furniture,2,0.08,23000,2927,Credit Card,Retail Store,Small Business
+ORD-100088,28-07-2025,30-07-2025,C-1071,Manoj Sharma,Chennai,Tamil Nadu,South,File Folder,Stationery,2,0.08,258,26,Credit Card,Online,Consumer
+ORD-100590,29-11-2025,30-11-2025,C-1050,Ravi Reddy,Hyderabad,Telangana,South,Notebook,Stationery,2,0.05,342,-250,UPI,Marketplace,Corporate
+ORD-100117,23-02-2025,25-02-2025,C-1013,Divya Joshi,Chennai,Tamil Nadu,South,27-Inch Monitor,Electronics,1,0.1,16650,2297,Net Banking,Retail Store,Corporate
+ORD-100202,26-05-2025,29-05-2025,C-1049,Anjali Sharma,Warangal,Telangana,South,Webcam,Electronics,6,0.12,23760,755,UPI,Marketplace,Consumer
+ORD-100541,14-09-2025,19-09-2025,C-1050,Asha Kumar,Jaipur,Rajasthan,North,Headphones,Electronics,4,0.12,11264,957,Net Banking,Retail Store,Corporate
+ORD-100486,05-02-2025,06-02-2025,C-1102,Manoj Das,Kolkata,West Bengal,East,24-Inch Monitor,Electronics,2,0.1,20700,2457,Cash,Retail Store,Consumer
+ORD-100237,12-05-2025,17-05-2025,C-1141,Divya Iyer,Pune,Maharashtra,West,Webcam,Electronics,4,0.12,15840,3643,Cash,Marketplace,Consumer
+ORD-100214,22-11-2025,23-11-2025,C-1071,Pooja Das,Vijayawada,Andhra Pradesh,South,Webcam,Electronics,1,0.05,4275,968,Debit Card,Marketplace,Consumer
+ORD-100480,11-12-2025,14-12-2025,C-1136,Rohit Joshi,Kolkata,West Bengal,East,Headphones,Electronics,2,0.1,5760,399,Debit Card,Retail Store,Corporate
+ORD-100540,24-04-2025,27-04-2025,C-1080,Kiran Singh,Kolkata,West Bengal,East,Calculator,Stationery,3,0,1950,201,Net Banking,Retail Store,Small Business
+ORD-100522,13-05-2025,14-05-2025,C-1081,Neha Iyer,Warangal,Telangana,South,Wireless Mouse,Accessories,1,0.08,782,25,Cash,Retail Store,Consumer
+ORD-100598,31-10-2025,03-11-2025,C-1016,Anjali Rao,Hyderabad,Telangana,South,Webcam,Electronics,2,0.15,7650,1562,Debit Card,Online,Consumer
+ORD-100483,26-04-2025,27-04-2025,C-1095,Kavya Reddy,Bengaluru,Karnataka,South,24-Inch Monitor,Electronics,4,0.02,45080,4736,Debit Card,Marketplace,Small Business
+ORD-100350-DUP,16-03-2025,18-03-2025,C-1124,Ravi Das,Vijayawada,Andhra Pradesh,South,Keyboard,Accessories,1,0.25,938,106,Net Banking,Online,Small Business
+ORD-100226,29-08-2025,30-08-2025,C-1058,Anjali Iyer,Bengaluru,Karnataka,South,Usb-C Hub,Accessories,2,0.08,3312,254,Cash,Online,Consumer
+ORD-100547,02-04-2025,04-04-2025,C-1007,Neha Kumar,Kolkata,West Bengal,East,Keyboard,Accessories,8,0,10000,1675,UPI,Online,Corporate
+ORD-100391,30-05-2025,02-06-2025,C-1135,Kavya Iyer,Pune,Maharashtra,West,File Folder,Stationery,1,0.05,133,25,Credit Card,Marketplace,Small Business
+ORD-100090,15-10-2025,18-10-2025,C-1056,Naveen Kumar,Kolkata,West Bengal,East,Office Desk,Furniture,1,0.02,12250,2777,Credit Card,Retail Store,Small Business
+ORD-100576,04-11-2025,08-11-2025,C-1038,Vikram Verma,Pune,Maharashtra,West,Laptop Stand,Accessories,1,0.12,1936,144,Cash,Online,Small Business
+ORD-100396,07-04-2025,13-04-2025,C-1013,Amit Sharma,Pune,Maharashtra,West,27-Inch Monitor,Electronics,1,0.05,17575,2599,Debit Card,Marketplace,Consumer
+ORD-100485,28-02-2025,02-03-2025,C-1043,Rohit Rao,Vijayawada,Andhra Pradesh,South,Headphones,Electronics,4,0.2,10240,1937,Cash,Online,Consumer
+ORD-100599,23-05-2025,24-05-2025,C-1050,Divya Iyer,Jaipur,Rajasthan,North,Bookshelf,Electronics,-1,0,19500,2146,Cash,Marketplace,Small Business
+ORD-100015,05-11-2025,08-11-2025,C-1009,Amit Rao,Mumbai,Maharashtra,West,Calculator,Stationery,1,0.08,598,67,Debit Card,Marketplace,Corporate
+ORD-100253,26-07-2025,01-08-2025,C-1112,Swathi Gupta,Kolkata,West Bengal,East,Headphones,Electronics,8,0.05,24320,2032,Debit Card,Retail Store,Small Business
+ORD-100329,14-12-2025,18-12-2025,C-1104,Suresh Naidu,Pune,Maharashtra,West,File Folder,Stationery,8,0.02,1098,131,UPI,Online,Consumer
+ORD-100121,31-03-2025,03-04-2025,C-1021,Sneha Das,Mumbai,Maharashtra,West,Office Chair,Furniture,4,0.12,31680,2660,Credit Card,Marketplace,Small Business
+ORD-100333,05-10-2025,09-10-2025,C-1064,Divya Singh,Chennai,Tamil Nadu,South,24-Inch Monitor,Electronics,1,0,11500,2071,UPI,Marketplace,Corporate
+ORD-100286,01-01-2025,07-01-2025,C-1082,Vikram Sharma,Visakhapatnam,Andhra Pradesh,South,Notebook,Stationery,1,0.05,171,39,Net Banking,Online,Consumer
+ORD-100334,26-08-2025,28-08-2025,C-1124,Sneha Patel,Pune,Maharashtra,West,Office Chair,Furniture,6,0,54000,3405,Debit Card,Retail Store,Small Business
+ORD-100043,11-02-2025,16-02-2025,C-1009,Ravi Rao,Kolkata,West Bengal,East,External Ssd,Electronics,4,0.08,26496,2765,Net Banking,Marketplace,Consumer
+ORD-100197,13-05-2025,14-05-2025,C-1054,Anjali Naidu,Bengaluru,Karnataka,South,Keyboard,Accessories,6,0.1,6750,887,Cash,Marketplace,Consumer
+ORD-100034,05-08-2025,08-08-2025,C-1134,Kavya Joshi,Kochi,Kerala,South,Headphones,Electronics,6,0.25,14400,2106,UPI,Retail Store,Corporate
+ORD-100251,09-12-2025,11-12-2025,C-1122,Swathi Gupta,Hyderabad,Telangana,South,Usb-C Hub,Accessories,2,0.05,3420,552,Net Banking,Marketplace,Consumer
+ORD-100228,02-10-2025,07-10-2025,C-1013,Manoj Verma,Mumbai,Maharashtra,West,External Ssd,Electronics,5,0.2,28800,1914,UPI,Marketplace,Corporate
+ORD-100560,24-10-2025,30-10-2025,C-1118,Suresh Iyer,Delhi,Delhi,North,Webcam,Electronics,2,0.25,6750,962,UPI,Online,Small Business
+ORD-100586-DUP,03-06-2025,07-06-2025,C-1004,Swathi Naidu,Kochi,Andhrapradesh,South,Headphones,Electronics,5,0.08,14720,2044,Cash,Marketplace,Small Business
+ORD-100453,15-06-2025,21-06-2025,C-1076,Rahul Joshi,Pune,Maharashtra,West,Calculator,Stationery,2,0.15,1105,90,UPI,Online,Small Business
+ORD-100428,02-02-2025,06-02-2025,C-1027,Asha Gupta,Warangal,Telangana,South,File Folder,Stationery,1,0.08,129,25,Cash,Retail Store,Corporate
+ORD-100291,09-01-2025,13-01-2025,C-1019,Vikram Verma,Warangal,Telangana,South,Usb-C Hub,Accessories,6,0.1,9720,1222,Net Banking,Retail Store,Corporate
+ORD-100311,16-05-2025,17-05-2025,C-1083,Meena Rao,Kochi,Kerala,South,File Folder,Stationery,1,0.1,126,17,UPI,Online,Small Business
+ORD-100017,21-05-2025,25-05-2025,C-1114,Anjali Gupta,Hyderbad,Telangana,South,Office Desk,Furniture,8,0.02,98000,20710,Credit Card,Online,Small Business
+ORD-100159,31-10-2025,04-11-2025,C-1099,Kiran Verma,Chennai,Tamil Nadu,South,Printer,Electronics,6,0.05,55860,8703,Debit Card,Retail Store,Small Business
+ORD-100244,16-01-2025,18-01-2025,C-1049,Rahul Singh,Kochi,Kerala,South,Office Desk,Furniture,1,0,12500,884,Debit Card,Retail Store,Corporate
+ORD-100147,15-12-2025,16-12-2025,C-1145,Kiran Iyer,Warangal,Telangana,South,Power Bank,Electronics,1,0.25,1800,259,Net Banking,Retail Store,Corporate
+ORD-100422,21-08-2025,26-08-2025,C-1091,Swathi Kumar,Pune,Maharashtra,West,Keyboard,Accessories,6,0.25,5625,459,UPI,Marketplace,Consumer
+ORD-100360,23-09-2025,29-09-2025,C-1099,Rahul Patel,Pune,Maharashtra,West,Webcam,Electronics,8,0.1,32400,2969,Debit Card,Marketplace,Consumer
+ORD-100584,20-11-2025,21-11-2025,C-1084,Rohit Naidu,Jaipur,Rajasthan,North,Calculator,Stationery,6,0.12,3432,584,Net Banking,Retail Store,Small Business
+ORD-100120,27-10-2025,02-11-2025,C-1127,Divya Das,Hyderbad,Telangana,South,Webcam,Electronics,2,0.12,7920,289,Cash,Marketplace,Small Business
+ORD-100066,08-05-2025,12-05-2025,C-1083,Divya Kumar,Delhi,Delhi,North,Calculator,Stationery,2,0.05,1235,140,Cash,Online,Corporate
+ORD-100239,08-02-2025,10-02-2025,C-1126,Ravi Reddy,Mumbai,Maharashtra,West,File Folder,Stationery,6,0.02,823,98,Net Banking,Retail Store,Consumer
+ORD-100019,26-08-2025,28-08-2025,C-1126,Divya Patel,Vijayawada,Andhra Pradesh,South,Office Desk,Furniture,1,0.12,11000,2192,Cash,Retail Store,Small Business
+ORD-100409,26-04-2025,02-05-2025,C-1011,Kavya Patel,Kochi,Kerala,South,Bookshelf,Furniture,1,0.25,4875,871,Credit Card,Online,Consumer
+ORD-100154,23-11-2025,28-11-2025,C-1131,Rohit Singh,Pune,Maharashtra,West,Power Bank,Electronics,2,0.05,4560,539,Net Banking,Online,Corporate
+ORD-100533,04-07-2025,05-07-2025,C-1123,Priya Iyer,Warangal,Telangana,South,Webcam,Electronics,2,0.2,7200,1056,Net Banking,Retail Store,Corporate
+ORD-100433,14-02-2025,19-02-2025,C-1111,Pooja Verma,Bengaluru,Karnataka,South,File Folder,Stationery,3,0.05,399,20,Credit Card,Retail Store,Consumer
+ORD-100432,11-07-2025,13-07-2025,C-1081,Naveen Sharma,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,1,0,850,182,Cash,Marketplace,Corporate
+ORD-100554,06-02-2025,10-02-2025,C-1054,Anjali Joshi,Chennai,Tamil Nadu,South,Power Bank,Electronics,8,0.12,16896,2511,Cash,Marketplace,Corporate
+ORD-100257,19-12-2025,24-12-2025,C-1081,Priya Das,Chennai,Tamil Nadu,South,Power Bank,Electronics,1,0.15,2040,328,Credit Card,Retail Store,Consumer
+ORD-100312,12-12-2025,15-12-2025,C-1062,Pooja Joshi,Pune,Maharashtra,West,Pen Pack,Stationery,5,0.1,990,163,Debit Card,Marketplace,Corporate
+ORD-100466,17-01-2025,21-01-2025,C-1019,Priya Iyer,Warangal,Telangana,South,Headphones,Electronics,6,0.25,14400,2830,UPI,Marketplace,Small Business
+ORD-100305,18-06-2025,20-06-2025,C-1042,Divya Iyer,Kochi,Kerala,South,Headphones,Electronics,6,0.05,18240,1503,Debit Card,Retail Store,Consumer
+ORD-100273,05-06-2025,11-06-2025,C-1130,Amit Kumar,Kochi,Kerala,South,Office Chair,Furniture,5,0.1,40500,5709,UPI,Retail Store,Consumer
+ORD-100331,31-03-2025,01-04-2025,C-1039,Priya Iyer,Bengaluru,Karnataka,South,Office Desk,Furniture,5,0.12,55000,6320,Cash,Online,Corporate
+ORD-100414,09-04-2025,12-04-2025,C-1116,Amit Gupta,Vijayawada,Andhra Pradesh,South,24-Inch Monitor,Electronics,2,0.05,21850,2932,Credit Card,Retail Store,Small Business
+ORD-100134,10-08-2025,14-08-2025,C-1103,Ravi Das,Hyderabad,Telangana,South,External Ssd,Electronics,1,0.02,7056,520,Credit Card,Online,Small Business
+ORD-100162,25-05-2025,30-05-2025,C-1113,Vikram Joshi,Mumbai,Maharashtra,West,Wireless Mouse,Accessories,3,0.25,1912,143,Credit Card,Online,Corporate
+ORD-100287,23-12-2025,27-12-2025,C-1150,Asha Joshi,Visakhapatnam,Andhra Pradesh,South,Laptop Stand,Accessories,1,0.2,1760,270,Debit Card,Retail Store,Corporate
+ORD-100249,20-01-2025,23-01-2025,C-1114,Priya Joshi,Kolkata,West Bengal,East,Bookshelf,Furniture,3,0.25,14625,2598,Net Banking,Retail Store,Consumer
+ORD-100503,21-05-2025,27-05-2025,C-1127,Swathi Joshi,Kochi,Kerala,South,27-Inch Monitor,Electronics,6,0.25,83250,8264,Cash,Retail Store,Consumer
+ORD-100510,28-08-2025,31-08-2025,C-1059,Rahul Patel,Bengaluru,Karnataka,South,Headphones,Electronics,1,0.02,3136,505,UPI,Online,Consumer
+ORD-100342,12-01-2025,16-01-2025,C-1077,Sneha Rao,Kolkata,West Bengal,East,Pen Pack,Stationery,1,0.1,198,33,UPI,Retail Store,Small Business
+ORD-100337,06-11-2025,08-11-2025,C-1102,Ravi Verma,Bengaluru,Karnataka,South,Office Desk,Furniture,8,0.2,80000,10493,Cash,Marketplace,Consumer
+ORD-100002,22-10-2025,23-10-2025,C-1113,Kiran Kumar,Warangal,Telangana,South,Office Chair,Furniture,2,0.1,16200,730,Credit Card,Online,Corporate
+ORD-100208,06-09-2025,12-09-2025,C-1057,Manoj Iyer,Delhi,Delhi,North,Office Chair,Furniture,6,0.08,49680,3967,UPI,Retail Store,Consumer
+ORD-100430,24-12-2025,26-12-2025,C-1143,Rohit Kumar,Jaipur,Rajasthan,North,External Ssd,Electronics,3,0.25,16200,-83,Credit Card,Retail Store,Consumer
+ORD-100118,27-04-2025,28-04-2025,C-1077,Naveen Iyer,Delhi,Delhi,North,27-Inch Monitor,Electronics,2,0.12,32560,1657,Net Banking,Marketplace,Corporate
+ORD-100570,10-08-2025,14-08-2025,C-1027,Swathi Singh,Delhi,Delhi,North,File Folder,Stationery,6,0.15,714,100,Net Banking,Marketplace,Small Business
+ORD-100389,19-11-2025,20-11-2025,C-1001,Arjun Rao,Bengaluru,Karnataka,South,Printer,Electronics,6,0,58800,5444,Cash,Retail Store,Consumer
+ORD-100023,22-07-2025,23-07-2025,C-1088,Divya Das,Hyderabad,Telangana,South,Notebook,Stationery,2,0.15,306,45,UPI,Online,Corporate
+ORD-100265,04-11-2025,07-11-2025,C-1074,Manoj Naidu,Kochi,Kerala,South,Keyboard,Accessories,1,0.05,1188,193,UPI,Online,Consumer
+ORD-100408,03-08-2025,05-08-2025,C-1141,Anjali Joshi,Warangal,Telangana,South,Laptop Stand,Accessories,6,0.1,11880,1579,Credit Card,Online,Corporate
+ORD-100071,22-07-2025,24-07-2025,C-1062,Kiran Gupta,Delhi,Delhi,North,Office Chair,Furniture,2,0.15,15300,1530,Cash,Retail Store,Corporate
+ORD-100129,23-11-2025,25-11-2025,C-1119,Priya Singh,Kochi,Kerala,South,Webcam,Electronics,1,0,4500,300,Credit Card,Retail Store,Consumer
+ORD-100445,22-04-2025,23-04-2025,C-1078,Anjali Naidu,Delhi,Delhi,North,Office Chair,Furniture,2,0,18000,1656,UPI,Marketplace,Small Business
+ORD-100517,25-12-2025,31-12-2025,C-1120,Vikram Patel,Delhi,Delhi,North,Laptop Stand,Accessories,6,0.02,12936,2544,Cash,Retail Store,Corporate
+ORD-100099,02-09-2025,08-09-2025,C-1121,Neha Gupta,Kolkata,West Bengal,East,Pen Pack,Stationery,1,0.25,165,25,Credit Card,Retail Store,Corporate
+ORD-100528,19-03-2025,25-03-2025,C-1038,Kavya Iyer,Pune,Maharashtra,West,Office Chair,Furniture,3,0.2,21600,3601,Debit Card,Online,Consumer
+ORD-100022,10-12-2025,11-12-2025,C-1108,Rahul Sharma,Visakhapatnam,Andhra Pradesh,South,Wireless Mouse,Accessories,1,0.1,765,40,UPI,Retail Store,Consumer
+ORD-100194,11-03-2025,13-03-2025,C-1001,Divya Rao,Jaipur,Rajasthan,North,Headphones,Electronics,-1,0.1,2880,507,Cash,Retail Store,Corporate
+ORD-100415,06-09-2025,12-09-2025,C-1096,Rohit Singh,Pune,Maharashtra,West,Calculator,Stationery,6,0.05,3705,147,Debit Card,Online,Corporate
+ORD-100006,08-11-2025,10-11-2025,C-1109,Anjali Gupta,Jaipur,Rajasthan,North,External Ssd,Electronics,2,0.12,12672,1952,Credit Card,Marketplace,Corporate
+ORD-100150,07-03-2025,12-03-2025,C-1106,Swathi Kumar,Delhi,Delhi,North,External Ssd,Electronics,1,0.05,6840,705,Cash,Retail Store,Corporate
+ORD-100314,11-06-2025,17-06-2025,C-1091,Amit Iyer,Jaipur,Rajasthan,North,Wireless Mouse,Accessories,3,0.2,2040,206,Net Banking,Marketplace,Small Business
+ORD-100380,21-07-2025,23-07-2025,C-1127,Naveen Kumar,Warangal,Telangana,South,27-Inch Monitor,Electronics,4,0,74000,17399,Net Banking,Retail Store,Consumer
+ORD-100136,12-03-2025,16-03-2025,C-1085,Manoj Iyer,Chennai,Tamil Nadu,South,Power Bank,Electronics,4,0.12,8448,1782,Net Banking,Marketplace,Consumer
+ORD-100355,13-01-2025,14-01-2025,C-1084,Pooja Joshi,Visakhapatnam,Andhra Pradesh,South,Office Desk,Furniture,3,0.2,30000,2822,Credit Card,Marketplace,Corporate
+ORD-100346,19-11-2025,21-11-2025,C-1028,Manoj Iyer,Kolkata,West Bengal,East,Notebook,Stationery,1,0,180,33,Credit Card,Retail Store,Small Business
+ORD-100583,21-09-2025,26-09-2025,C-1009,Rahul Gupta,Visakhapatnam,Andhra Pradesh,South,Pen Pack,Stationery,1,0,220,17,UPI,Online,Consumer
+ORD-100405,12-02-2025,17-02-2025,C-1067,Divya Gupta,Kochi,Kerala,South,Keyboard,Accessories,8,0.02,9800,1080,Debit Card,Online,Consumer
+ORD-100328,20-06-2025,26-06-2025,C-1126,Manoj Iyer,Warangal,Telangana,South,27-Inch Monitor,Electronics,1,0.25,13875,2619,Debit Card,Online,Corporate
+ORD-100413,03-09-2025,08-09-2025,C-1006,Naveen Kumar,Warangal,Telangana,South,Bookshelf,Furniture,6,0,39000,2687,Debit Card,Online,Consumer
+ORD-100123,23-09-2025,28-09-2025,C-1087,Vikram Gupta,Kolkata,West Bengal,East,Notebook,Stationery,4,0.08,662,151,Cash,Retail Store,Corporate
+ORD-100224,15-02-2025,21-02-2025,C-1032,Anjali Joshi,Bengaluru,Karnataka,South,Notebook,Stationery,1,0.05,171,13,UPI,Marketplace,Consumer
+ORD-100144,02-10-2025,08-10-2025,C-1062,Pooja Naidu,Warangal,Telangana,South,Keyboard,Accessories,4,0.2,4000,637,Debit Card,Online,Consumer
+ORD-100327,08-07-2025,11-07-2025,C-1100,Sneha Singh,Chennai,Tamil Nadu,South,Calculator,Stationery,2,0.05,1235,77,Debit Card,Retail Store,Corporate
+ORD-100553,09-08-2025,10-08-2025,C-1146,Ravi Kumar,Pune,Maharashtra,West,24-Inch Monitor,Electronics,4,0.2,36800,1300,UPI,Online,Corporate
+ORD-100351,16-11-2025,18-11-2025,C-1032,Pooja Rao,Bengaluru,Karnataka,South,27-Inch Monitor,Electronics,3,0.12,48840,4452,UPI,Retail Store,Small Business
+ORD-100140,21-03-2025,25-03-2025,C-1081,Vikram Iyer,Mumbai,Maharashtra,West,External Ssd,Electronics,2,0.12,12672,448,Debit Card,Retail Store,Corporate
+ORD-100418,19-06-2025,21-06-2025,C-1106,Anjali Naidu,Chennai,Tamil Nadu,South,Printer,Electronics,1,0,9800,967,Credit Card,Retail Store,Consumer
+ORD-100455,17-02-2025,21-02-2025,C-1007,Kiran Naidu,Delhi,Delhi,North,Keyboard,Accessories,2,0.05,2375,260,Debit Card,Marketplace,Corporate
+ORD-100219,09-08-2025,10-08-2025,C-1019,Sneha Gupta,Bengaluru,Karnataka,South,24-Inch Monitor,Electronics,4,0,46000,5652,Debit Card,Marketplace,Consumer
+ORD-100158,08-07-2025,13-07-2025,C-1100,Vikram Joshi,Kochi,Kerala,South,27-Inch Monitor,Electronics,5,0.25,69375,7773,Debit Card,Retail Store,Consumer
+ORD-100095,15-10-2025,20-10-2025,C-1023,Manoj Joshi,Hyderabad,Telangana,South,Webcam,Electronics,2,0.1,8100,1828,Cash,Marketplace,Corporate
+ORD-100256,11-02-2025,16-02-2025,C-1133,Priya Joshi,Kolkata,West Bengal,East,Calculator,Stationery,8,0.08,4784,1045,Net Banking,Online,Consumer
+ORD-100040,19-03-2025,23-03-2025,C-1062,Swathi Patel,Chennai,Maharashtra,South,External Ssd,Electronics,1,0.15,6120,1175,UPI,Retail Store,Corporate
+ORD-100131,24-06-2025,25-06-2025,C-1111,Amit Iyer,Chennai,Tamil Nadu,South,Bookshelf,Furniture,6,0.2,31200,6494,Net Banking,Marketplace,Corporate
+ORD-100062-DUP,26-07-2025,29-07-2025,C-1091,Pooja Rao,Kochi,Kerala,South,24-Inch Monitor,Electronics,2,0.2,18400,2673,Cash,Marketplace,Small Business
+ORD-100190,08-07-2025,13-07-2025,C-1031,Sneha Singh,Jaipur,Rajasthan,North,27-Inch Monitor,Electronics,2,0.2,29600,5380,Debit Card,Online,Corporate
+ORD-100243,26-11-2025,27-11-2025,C-1124,Neha Singh,Hyderabad,Telangana,South,24-Inch Monitor,Electronics,2,0.1,20700,1004,Cash,Marketplace,Corporate
+ORD-100354,20-04-2025,26-04-2025,C-1088,Naveen Sharma,Bengaluru,Karnataka,South,External Ssd,Electronics,5,0.12,12672,2586,Net Banking,Marketplace,Consumer
+ORD-100504,06-04-2025,08-04-2025,C-1041,Vikram Iyer,Delhi,Delhi,North,27-Inch Monitor,Electronics,1,0.12,16280,3494,Cash,Marketplace,Small Business
+ORD-100160,12-02-2025,15-02-2025,C-1007,Amit Joshi,Kochi,Kerala,South,File Folder,Stationery,1,0.12,123,19,Credit Card,Online,Corporate
+ORD-100395,28-08-2025,30-08-2025,C-1079,Ravi Gupta,Vijayawada,Andhra Pradesh,South,24-Inch Monitor,Electronics,1,0,11500,1267,Credit Card,Marketplace,Consumer
+ORD-100241,19-11-2025,21-11-2025,C-1008,Swathi Naidu,Hyderabad,Telangana,South,Headphones,Electronics,6,0.02,18816,1481,Debit Card,Online,Consumer
+ORD-100014,26-12-2025,28-12-2025,C-1040,Meena Das,Kochi,Kerala,South,File Folder,Stationery,4,0.25,420,77,UPI,Marketplace,Small Business
+ORD-100362,31-01-2025,04-02-2025,C-1046,Meena Patel,Chennai,Tamil Nadu,South,External Ssd,Electronics,2,0.12,12672,2233,UPI,Retail Store,Small Business
+ORD-100321,06-04-2025,12-04-2025,C-1146,Naveen Das,Chennai,Tamil Nadu,South,Bookshelf,Furniture,5,0.2,26000,2564,Credit Card,Retail Store,Corporate
+ORD-100356,01-03-2025,06-03-2025,C-1057,Pooja Patel,Pune,Maharashtra,West,External Ssd,Electronics,0,0.08,6624,653,Cash,Online,Consumer
+ORD-100035,23-11-2025,26-11-2025,C-1054,Anjali Kumar,Warangal,Telangana,South,Usb-C Hub,Accessories,1,0.12,1584,289,Debit Card,Retail Store,Consumer
+ORD-100424,09-04-2025,13-04-2025,C-1090,Swathi Singh,Delhi,Delhi,North,Wireless Mouse,Accessories,6,0.25,3825,812,Cash,Retail Store,Consumer
+ORD-100326,22-08-2025,25-08-2025,C-1031,Rahul Reddy,Warangal,Telangana,South,Pen Pack,Stationery,2,0.1,396,53,Credit Card,Retail Store,Consumer
+ORD-100188,10-03-2025,16-03-2025,C-1134,Kavya Naidu,Vijayawada,Andhra Pradesh,South,27-Inch Monitor,Electronics,5,0.1,83250,9908,Debit Card,Retail Store,Corporate
+ORD-100594,30-11-2025,06-12-2025,C-1082,Rahul Reddy,Pune,Maharashtra,West,24-Inch Monitor,Electronics,8,0.25,69000,9500,UPI,Online,Small Business
+ORD-100166,08-01-2025,14-01-2025,C-1026,Naveen Verma,Jaipur,Rajasthan,North,Calculator,Stationery,4,0.12,2288,353,Cash,Marketplace,Consumer
+ORD-100348,08-06-2025,14-06-2025,C-1021,Anjali Verma,Delhi,Delhi,North,External Ssd,Electronics,8,0.2,46080,7100,UPI,Online,Small Business
+ORD-100299,11-12-2025,17-12-2025,C-1032,Pooja Naidu,Bengaluru,Karnataka,South,Calculator,Stationery,1,0.1,585,84,Net Banking,Online,Small Business
+ORD-100230,04-01-2025,10-01-2025,C-1059,Pooja Reddy,Visakhapatnam,Andhra Pradesh,South,27-Inch Monitor,Electronics,3,0.08,51060,5606,Net Banking,Online,Consumer
+ORD-100447,04-05-2025,07-05-2025,C-1059,Amit Rao,Hyderabad,Telangana,South,24-Inch Monitor,Electronics,2,0,23000,1478,Cash,Marketplace,Small Business
+ORD-100448,11-07-2025,15-07-2025,C-1122,Arjun Iyer,Delhi,Delhi,North,Webcam,Electronics,1,0.2,3600,105,Credit Card,Retail Store,Corporate
+ORD-100350,16-03-2025,18-03-2025,C-1124,Ravi Das,Vijayawada,Andhra Pradesh,South,Keyboard,Accessories,1,0.25,938,106,Net Banking,Online,Small Business
+ORD-100046,09-07-2025,12-07-2025,C-1123,Naveen Verma,Hyderabad,Telangana,South,Usb-C Hub,Accessories,4,0.12,6336,501,Debit Card,Marketplace,Consumer
+ORD-100109,04-02-2025,09-02-2025,C-1050,Rohit Singh,Hyderabad,Telangana,South,Webcam,Electronics,1,0.15,3825,592,Cash,Retail Store,Corporate
+ORD-100030,03-07-2025,04-07-2025,C-1110,Kavya Joshi,Pune,Maharashtra,West,Bookshelf,Electronics,1,0.08,5980,370,UPI,Marketplace,Consumer
+ORD-100182,01-07-2025,07-07-2025,C-1094,Ravi Gupta,Jaipur,Rajasthan,North,27-Inch Monitor,Electronics,1,0.05,17575,1711,UPI,Online,Small Business
+ORD-100420,09-01-2025,11-01-2025,C-1077,Sneha Joshi,Pune,Maharashtra,West,Pen Pack,Stationery,8,0.1,1584,78,Net Banking,Retail Store,Consumer
+ORD-100105,02-05-2025,07-05-2025,C-1063,Manoj Singh,Chennai,Tamil Nadu,South,Calculator,Stationery,2,0.15,1105,210,Cash,Marketplace,Corporate
+ORD-100061,31-08-2025,03-09-2025,C-1141,Meena Rao,Jaipur,Rajasthan,North,Pen Pack,Stationery,5,0,1100,253,Debit Card,Online,Corporate
+ORD-100084,12-05-2025,13-05-2025,C-1031,Rahul Rao,Bengaluru,Karnataka,South,Webcam,Electronics,6,0.02,26460,5670,UPI,Online,Corporate
+ORD-100491,08-12-2025,09-12-2025,C-1018,Rahul Singh,Jaipur,Rajasthan,North,Calculator,Stationery,6,1.2,3510,367,Cash,Marketplace,Corporate
+ORD-100316,03-01-2025,04-01-2025,C-1070,Kiran Gupta,Delhi,Delhi,North,Laptop Stand,Accessories,1,0.05,2090,250,UPI,Online,Consumer
+ORD-100382,06-07-2025,12-07-2025,C-1145,Suresh Verma,Hyderabad,Telangana,South,Wireless Mouse,Accessories,2,0.12,1496,111,Debit Card,Retail Store,Corporate
+ORD-100497,05-06-2025,09-06-2025,C-1107,Suresh Iyer,Hyderabad,Telangana,South,Office Desk,Furniture,1,0,12500,1794,Net Banking,Marketplace,Consumer
+ORD-100586,03-06-2025,07-06-2025,C-1004,Swathi Naidu,Kochi,Andhrapradesh,South,Headphones,Electronics,5,0.08,14720,2044,Cash,Marketplace,Small Business
+ORD-100524,22-04-2025,27-04-2025,C-1051,Vikram Sharma,Jaipur,Rajasthan,North,24-Inch Monitor,Electronics,5,0,57500,3779,UPI,Marketplace,Small Business
+ORD-100446,01-04-2025,02-04-2025,C-1002,Sneha Rao,Kochi,Kerala,South,Webcam,Electronics,8,0.15,30600,4004,Net Banking,Retail Store,Consumer
+ORD-100001,15-09-2025,16-09-2025,C-1078,Vikram Iyer,Bengaluru,Karnataka,South,27-Inch Monitor,Electronics,1,0.15,15725,1874,UPI,Online,Corporate
+ORD-100458,20-01-2025,23-01-2025,C-1051,Amit Naidu,Pune,Maharashtra,West,Pen Pack,Stationery,3,0.2,528,30,Net Banking,Marketplace,Consumer
+ORD-100489,12-07-2025,15-07-2025,C-1078,Vikram Sharma,Delhi,Delhi,North,Notebook,Stationery,2,0.25,270,23,Credit Card,Marketplace,Consumer
+ORD-100089,22-11-2025,25-11-2025,C-1130,Sneha Rao,Bengaluru,Karnataka,South,Wireless Mouse,Accessories,3,0,2550,602,UPI,Online,Corporate
+ORD-100484,06-07-2025,10-07-2025,C-1141,Swathi Reddy,Warangal,Telangana,South,Power Bank,Electronics,5,0.15,10200,1322,Net Banking,Retail Store,Small Business
+ORD-100461,24-08-2025,25-08-2025,C-1036,Arjun Iyer,Kolkata,West Bengal,East,Pen Pack,Stationery,1,0.1,198,22,Debit Card,Marketplace,Corporate
+ORD-100124,16-07-2025,17-07-2025,C-1079,Kavya Naidu,Mumbai,Maharashtra,West,24-Inch Monitor,Electronics,4,0.08,42320,3496,Debit Card,Retail Store,Small Business
+ORD-100298,21-08-2025,23-08-2025,C-1035,Rahul Gupta,Delhi,Delhi,North,Webcam,Electronics,2,0.05,8550,1495,Cash,Retail Store,Consumer
+ORD-100012,16-06-2025,18-06-2025,C-1010,Amit Verma,Kolkata,West Bengal,East,Printer,Electronics,4,0.1,35280,7159,Cash,Marketplace,Corporate
+ORD-100115,25-11-2025,30-11-2025,C-1123,Naveen Patel,Bengaluru,Karnataka,South,Pen Pack,Stationery,8,0.05,1672,100,Net Banking,Online,Small Business
+ORD-100258,19-06-2025,21-06-2025,C-1035,Anjali Kumar,Kochi,Kerala,South,Headphones,Electronics,4,0.08,11776,1236,Credit Card,Retail Store,Small Business
+ORD-100532,31-03-2025,05-04-2025,C-1039,Naveen Reddy,Chennai,Tamil Nadu,South,Laptop Stand,Accessories,4,0.02,8624,1719,UPI,Online,Small Business
+ORD-100170,31-08-2025,01-09-2025,C-1019,Suresh Patel,Vijayawada,Andhra Pradesh,South,Office Chair,Furniture,2,0.15,15300,1256,Credit Card,Online,Corporate
+ORD-100240,22-07-2025,23-07-2025,C-1012,Pooja Iyer,Mumbai,Maharashtra,West,Keyboard,Accessories,2,0,2500,201,Cash,Retail Store,Corporate
+ORD-100074,25-06-2025,30-06-2025,C-1019,Kavya Patel,Warangal,Telangana,South,Office Desk,Furniture,2,0,25000,2956,Cash,Marketplace,Consumer
+ORD-100530,10-02-2025,13-02-2025,C-1089,Divya Gupta,Bengaluru,Karnataka,South,27-Inch Monitor,Electronics,2,0.02,36260,6654,Debit Card,Retail Store,Consumer
+ORD-100063,06-12-2025,09-12-2025,C-1128,Pooja Iyer,Mumbai,Maharashtra,West,File Folder,Stationery,1,0.15,119,21,UPI,Retail Store,Small Business
+ORD-100493,29-09-2025,01-10-2025,C-1143,Kiran Naidu,Jaipur,Rajasthan,North,Headphones,Electronics,4,0.15,10880,1314,Net Banking,Online,Corporate
+ORD-100048,05-12-2025,06-12-2025,C-1044,Amit Singh,Visakhapatnam,Andhra Pradesh,South,File Folder,Stationery,1,0,140,10,Credit Card,Online,Corporate
+ORD-100592,10-05-2025,16-05-2025,C-1108,Kavya Reddy,Delhi,Delhi,North,Wireless Mouse,Accessories,1,0.25,638,76,Net Banking,Online,Consumer
+ORD-100506,30-05-2025,05-06-2025,C-1079,Naveen Reddy,Mumbai,Maharashtra,West,Headphones,Electronics,3,0.05,9120,-250,UPI,Marketplace,Consumer
+ORD-100021,05-03-2025,08-03-2025,C-1068,Ravi Singh,Chennai,Tamil Nadu,South,Wireless Mouse,Accessories,2,0.2,1360,232,Debit Card,Retail Store,Corporate
+ORD-100216,03-07-2025,09-07-2025,C-1024,Suresh Gupta,Warangal,Telangana,South,Laptop Stand,Accessories,1,0,2200,319,Cash,Marketplace,Small Business
+ORD-100245,15-04-2025,20-04-2025,C-1146,Vikram Gupta,Pune,Maharashtra,West,External Ssd,Electronics,1,0,7200,1565,Credit Card,Online,Consumer
+ORD-100364,14-08-2025,19-08-2025,C-1051,Asha Das,Jaipur,Rajasthan,North,Webcam,Electronics,2,0.1,8100,1618,UPI,Marketplace,Consumer
+ORD-100060,22-12-2025,24-12-2025,C-1019,Ravi Verma,Kolkata,West Bengal,East,Bookshelf,Furniture,4,0.08,23920,3125,Credit Card,Retail Store,Small Business
+ORD-100177,11-09-2025,15-09-2025,C-1067,Vikram Patel,Hyderabad,Telangana,South,Webcam,Electronics,6,0.15,22950,1447,Debit Card,Retail Store,Consumer
+ORD-100450,13-04-2025,16-04-2025,C-1088,Neha Patel,Pune,Maharashtra,West,Wireless Mouse,Accessories,6,0.1,4590,638,Debit Card,Online,Consumer
+ORD-100056,22-02-2025,25-02-2025,C-1112,Suresh Rao,Delhi,Delhi,North,Keyboard,Accessories,3,0.02,3675,447,Cash,Retail Store,Small Business
+ORD-100255,25-10-2025,30-10-2025,C-1043,Divya Rao,Pune,Maharashtra,West,24-Inch Monitor,Electronics,4,0.25,34500,1205,UPI,Online,Small Business
+ORD-100069,07-03-2025,07-07-2025,C-1092,Manoj Verma,Kolkata,West Bengal,East,Webcam,Electronics,1,0.25,3375,363,Net Banking,Marketplace,Small Business
+ORD-100169,21-03-2025,24-03-2025,C-1111,Pooja Sharma,Kochi,Kerala,South,Notebook,Stationery,3,-0.1,459,52,Cash,Marketplace,Corporate
+ORD-100186,24-06-2025,30-06-2025,C-1020,Swathi Kumar,Delhi,Delhi,North,Office Chair,Furniture,8,0.2,57600,10789,Cash,Retail Store,Corporate
+ORD-100036,02-08-2025,08-08-2025,C-1145,Rahul Sharma,Pune,Maharashtra,West,External Ssd,Electronics,1,0.02,7056,1277,Debit Card,Marketplace,Consumer
